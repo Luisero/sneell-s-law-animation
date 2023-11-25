@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/luis/Programming/python/sneell-s-law-animation/media/videos/main/480p15/partial_movie_files/Snell/1185818338_105585088_223132457.mp4'
+file 'file:/home/luis/Programming/python/sneell-s-law-animation/media/videos/main/480p15/partial_movie_files/Snell/624642324_3891874688_3898318313.mp4'
+file 'file:/home/luis/Programming/python/sneell-s-law-animation/media/videos/main/480p15/partial_movie_files/Snell/624642324_767061776_4131132508.mp4'
+file 'file:/home/luis/Programming/python/sneell-s-law-animation/media/videos/main/480p15/partial_movie_files/Snell/624642324_4105491939_3111705841.mp4'
